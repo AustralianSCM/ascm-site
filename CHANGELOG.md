@@ -2,11 +2,16 @@
 
 ## NEXT
 
-- Upgrade Drupal to 7.70
 - Upgrade CiviCRM to 5.22.1
-- Upgrade Drupal to 7.72
-- Require security_review module.
+
+## 2021.08.27
+
+- Require security_review module
   Resolves #64.
+- Newsletter subscription: auto-select ASCM News
+  Resolves #70.
+- Upgrade Drupal to 7.80
+  Resolves #72.
 
 ## 2020.01.23
 
