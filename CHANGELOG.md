@@ -2,9 +2,7 @@
 
 ## NEXT
 
-- Upgrade Drupal to 7.70
 - Upgrade CiviCRM to 5.22.1
-- Upgrade Drupal to 7.72
 
 ## 2021.08.27
 
