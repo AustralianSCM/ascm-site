@@ -1,4 +1,4 @@
-Drupal 7 website for the [Australian Student Christian Movement](http://ascm.org.au).
+Drupal 7 website for the [Australian Student Christian Movement](https://ascm.org.au).
 
 Workflow:
 
