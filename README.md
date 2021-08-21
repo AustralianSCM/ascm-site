@@ -8,3 +8,5 @@ Workflow:
 
 - Develop locally
 - Synchronise `web` directory with `public_html` on web host
+
+System documentation is now in the [ascm-docs](https://github.com/AustralianSCM/ascm-docs) repository.
