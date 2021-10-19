@@ -4,6 +4,10 @@
 
 - Upgrade CiviCRM to 5.22.1
 
+## 2021.10.19
+
+- Security updates
+
 ## 2021.08.27
 
 - Require security_review module
