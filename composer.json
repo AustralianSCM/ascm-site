@@ -127,7 +127,11 @@
     ]
   },
   "config": {
-    "vendor-dir": "vendor"
+    "vendor-dir": "vendor",
+    "allow-plugins": {
+      "composer/installers": true,
+      "drupal-composer/preserve-paths": true
+    }
   },
   "extra": {
     "installer-paths": {
